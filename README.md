@@ -4,6 +4,7 @@
 **JeffersonOuro/JeffersonOuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img width="3168" height="1344" alt="Gemini_Generated_Image_exiu4iexiu4iexiu" src="https://github.com/user-attachments/assets/ed02af24-48d2-4bad-b744-fd6933698f9f" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
